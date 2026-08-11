@@ -179,5 +179,3 @@ Bachelor of Artificial Intelligence & Data Science
 ---
 
 ## ⭐ If you found this project helpful, don't forget to give it a Star!
-
-      Alerts / Notifications
